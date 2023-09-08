@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lazymetior
 - 👀 I’m interested in Web/Android development
-- 🌱 I’m currently learning .net and React framework
+- 🌱 I’m currently learning mern stack development
 - 📫 Reach me jigneshzala352@gmail.com
 
 <!---
